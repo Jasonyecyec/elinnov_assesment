@@ -17,7 +17,7 @@ This is a **C# console application** that serves as a simple inventory managemen
 ## Installation & Setup
 ### 1. Clone the repository
 ```sh
-git clone (https://github.com/Jasonyecyec/elinnov_assesment.git)
+git clone https://github.com/Jasonyecyec/elinnov_assesment.git
 cd elinnov_assesment
 ```
 
