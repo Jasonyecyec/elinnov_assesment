@@ -4,7 +4,6 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             InventoryManager inventoryManager = new InventoryManager();
             bool isRunning = true;
